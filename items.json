@@ -2,55 +2,55 @@
   "movies": [
     {
       "id": 1,
-      "name": "Brain Dead",
+      "title": "Brain Dead",
       "director": "Peter Jackson",
       "year": 1992
     },
     {
       "id": 2,
-      "name": "Killer Klowns from the Outer Space",
+      "title": "Killer Klowns from the Outer Space",
       "director": "Stephen Chiodo",
       "year": 1988
     },
     {
       "id": 3,
-      "name": "Gremlins",
+      "title": "Gremlins",
       "director": "Joe Dante",
       "year": 1984
     },
     {
       "id": 4,
-      "name": "Critters",
+      "title": "Critters",
       "director": "Stephen Herek",
       "year": 1986
     },
     {
       "id": 5,
-      "name": "Ghoulies",
+      "title": "Ghoulies",
       "director": "Luca Bercovici",
       "year": 1984
     },
     {
       "id": 6,
-      "name": "Re-Animator",
+      "title": "Re-Animator",
       "director": "Stuart Gordon",
       "year": 1985
     },
     {
       "id": 7,
-      "name": "Re-sonator",
+      "title": "Re-sonator",
       "director": "Stuart Gordon",
       "year": 1986
     },
     {
       "id": 8,
-      "name": "Lost Boys",
+      "title": "Lost Boys",
       "director": "Joel Schumacher",
       "year": 1987
     },
     {
       "id": 9,
-      "name": "The Rocky Horror Picture Show",
+      "title": "The Rocky Horror Picture Show",
       "director": "Jim Sharman",
       "year": 1975
     }
