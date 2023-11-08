@@ -5,63 +5,72 @@
       "title": "Brain Dead",
       "director": "Peter Jackson",
       "year": 1992,
-      "picture": "https://i.ibb.co/r66TwSq/braindead.webp"
+      "picture": "https://i.ibb.co/r66TwSq/braindead.webp",
+      "isWatched": false
     },
     {
       "id": 2,
       "title": "Killer Klowns from the Outer Space",
       "director": "Stephen Chiodo",
       "year": 1988,
-      "picture": "https://i.ibb.co/s1nFkn6/killer-klowns.webp"
+      "picture": "https://i.ibb.co/s1nFkn6/killer-klowns.webp",
+      "isWatched": false
     },
     {
       "id": 3,
       "title": "Gremlins",
       "director": "Joe Dante",
       "year": 1984,
-      "picture": "https://i.ibb.co/tZX3B7j/gremlins.webp"
+      "picture": "https://i.ibb.co/tZX3B7j/gremlins.webp",
+      "isWatched": false
     },
     {
       "id": 4,
       "title": "Critters",
       "director": "Stephen Herek",
       "year": 1986,
-      "picture": "https://i.ibb.co/M7TfnVc/critters.webp"
+      "picture": "https://i.ibb.co/M7TfnVc/critters.webp",
+      "isWatched": false
     },
     {
       "id": 5,
       "title": "Ghoulies",
       "director": "Luca Bercovici",
       "year": 1984,
-      "picture": "https://i.ibb.co/j4FZpW0/ghoulies.webp"
+      "picture": "https://i.ibb.co/j4FZpW0/ghoulies.webp",
+      "isWatched": false
     },
     {
       "id": 6,
       "title": "Re-Animator",
       "director": "Stuart Gordon",
       "year": 1985,
-      "picture": "https://i.ibb.co/6BywtBr/re-animator.webp"
+      "picture": "https://i.ibb.co/6BywtBr/re-animator.webp",
+      "isWatched": false
     },
     {
       "id": 7,
       "title": "Re-sonator",
       "director": "Stuart Gordon",
       "year": 1986,
-      "picture": "https://i.ibb.co/zhqsXjJ/re-sonator.webp"
+      "picture": "https://i.ibb.co/zhqsXjJ/re-sonator.webp",
+      "isWatched": false
     },
     {
       "id": 8,
       "title": "Lost Boys",
       "director": "Joel Schumacher",
       "year": 1987,
-      "picture": "https://i.ibb.co/RvSQ4WS/lost-boys.webp"
+      "picture": "https://i.ibb.co/RvSQ4WS/lost-boys.webp",
+      "isWatched": false
     },
     {
       "id": 9,
       "title": "The Rocky Horror Picture Show",
       "director": "Jim Sharman",
       "year": 1975,
-      "picture": "https://i.ibb.co/YNGTp94/rocky-horror.webp"
+      "picture": "https://i.ibb.co/YNGTp94/rocky-horror.webp",
+      "isWatched": false
     }
   ]
 }
